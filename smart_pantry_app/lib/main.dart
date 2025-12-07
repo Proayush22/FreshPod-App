@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-
-import 'package:flutter/material.dart';
 import 'package:smart_pantry_app/screens/main_screen.dart';
 import 'package:smart_pantry_app/theme.dart';
 
